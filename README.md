@@ -17,7 +17,7 @@ An Arduino-based project that controls decorative Christmas lights with custom p
 
 ## Demo
 🎥 Watch the hardware demo on YouTube:  
-👉 [Christmas Lights Demo]([https://www.youtube.com/your-video-link-here](https://youtube.com/shorts/K5VuKq_Ds8M))
+👉 [Christmas Lights Demo](https://youtube.com/shorts/K5VuKq_Ds8M)
 
 ## Code
 The implementation is written in **C++ for Arduino**.  
