@@ -9,7 +9,7 @@ An Arduino-based project that controls decorative Christmas lights with custom p
 - Expandable design for larger light setups  
 
 ## Components
-- Arduino UNO (or compatible board)  
+- Arduino UNO 
 - LEDs (any colors, arranged in decorative setup)  
 - Current-limiting resistors  
 - Breadboard and jumper wires  
